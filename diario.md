@@ -11,4 +11,9 @@ Hoy hemos aprendido cómo configurar Git para su uso diario a lo largo de la pr�
 Comandos usados a través de la interfaz Git de Visual Studio Code:
 
 - git add: Sirve para añadir todos los archivos del repositorio que no se están rastreando al espacio de trabajo.
-- git commit -m "[Mensaje de commit (sencillo e informativo)]": Este comando sube al repositorio de GitHub los archivos que se están rastreando en el repositorio local, añadiendo un mensaje que informa de los cambios realizados en la última actualización. 
+- git commit -m "[Mensaje de commit (sencillo e informativo)]": Este comando rastrea en el repositorio local los archivos seleccionados por el git add, añadiendo un mensaje que informa de los cambios realizados en la última actualización. 
+- git push: Este comando sube al repositorio de GitHub los archivos que se están rastreando en el repositorio local.
+
+## 13/02/2025
+
+Se ha dado tiempo para realizar los ejercicios programados durante el tiempo de tareas. Se ha resuelto el ejercicio 1.

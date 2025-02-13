@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NASA APOD Viewer</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        img { max-width: 100%; height: auto; margin-top: 20px; }
+    </style>
+    <script type="module" src="nasa_pictures.js"></script>
+</head>
+<body>
+    <form>
+    <h1>Imagen Astronómica del Día (APOD)</h1>
+    <label for="date">Selecciona una fecha:</label>
+    <input type="date" id="date">
+    <button type="submit">Ver Imagen</button>
+    <h2 id="title"></h2>
+    <p id="explanation"></p>
+    <img id="apodImage" src="" alt="Imagen APOD">
+</form>
+</body>
+</html>
