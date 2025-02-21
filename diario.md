@@ -24,4 +24,4 @@ Realizados el ejercicio 2, comenzado el ejercicio 3, instalación de Vite en los
 
 ## 21/03/2025
 
-Realizado el ejercicio 3
+Realizados los ejercicios 3, 4
