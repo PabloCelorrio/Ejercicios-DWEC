@@ -1,0 +1,4 @@
+Hostname: DESKTOP-V85P9S3
+Versión: Windows 10 Pro
+Memoria disponible: 8396443648 bytes
+CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz

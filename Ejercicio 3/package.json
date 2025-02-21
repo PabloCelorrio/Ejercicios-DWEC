@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 de React",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Celorrio",
+  "license": "ISC",
+  "dependencies": {
+    "os": "^0.1.2"
+  }
+}

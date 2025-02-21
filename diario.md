@@ -17,3 +17,11 @@ Comandos usados a través de la interfaz Git de Visual Studio Code:
 ## 13/02/2025
 
 Se ha dado tiempo para realizar los ejercicios programados durante el tiempo de tareas. Se ha resuelto el ejercicio 1.
+
+## 18/02/2025
+
+Realizados el ejercicio 2, comenzado el ejercicio 3, instalación de Vite en los archivos de proyecto
+
+## 21/03/2025
+
+Realizado el ejercicio 3
