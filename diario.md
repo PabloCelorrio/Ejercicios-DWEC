@@ -22,6 +22,10 @@ Se ha dado tiempo para realizar los ejercicios programados durante el tiempo de 
 
 Realizados el ejercicio 2, comenzado el ejercicio 3, instalación de Vite en los archivos de proyecto
 
-## 21/03/2025
+## 21/02/2025
 
-Realizados los ejercicios 3, 4
+Realizados los ejercicios 3 y 4
+
+## 22/02/2025
+
+Realizado el ejercicio 5
