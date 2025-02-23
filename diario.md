@@ -29,3 +29,7 @@ Realizados los ejercicios 3 y 4
 ## 22/02/2025
 
 Realizado el ejercicio 5
+
+## 23/02/2025
+
+Realizado el ejercicio 6
